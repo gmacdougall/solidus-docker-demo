@@ -19,7 +19,7 @@
 .byebug_history
 
 # Ignore installed gems
-/vendor
+/vendor/bundle
 
 # Local Assets
 /public/spree
